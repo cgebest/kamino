@@ -1,0 +1,1 @@
+t1&t2&EQ(t1.AreaCode,t2.AreaCode)&IQ(t1.State,t2.State)

@@ -1,0 +1,3 @@
+t1&t2&EQ(t1.a13,t2.a13)&LT(t1.a11,t2.a11)&GT(t1.a3,t2.a3)
+t1&t2&IQ(t1.a12,t2.a12)&LTE(t1.a13,t2.a13)&GTE(t1.a5,t2.a5)
+t1&t2&LTE(t1.a5,t2.a5)&LT(t1.a3,t2.a3)&IQ(t1.a12,t2.a12)&LT(t1.a11,t2.a11)

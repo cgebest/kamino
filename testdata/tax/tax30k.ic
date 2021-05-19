@@ -1,0 +1,6 @@
+t1&t2&EQ(t1.Zip,t2.Zip)&IQ(t1.City,t2.City)
+t1&t2&EQ(t1.AreaCode,t2.AreaCode)&IQ(t1.State,t2.State)
+t1&t2&EQ(t1.Zip,t2.Zip)&IQ(t1.State,t2.State)
+t1&t2&EQ(t1.State,t2.State)&EQ(t1.HasChild,t2.HasChild)&IQ(t1.ChildExemp,t2.ChildExemp)
+t1&t2&EQ(t1.State,t2.State)&EQ(t1.MaritalStatus,t2.MaritalStatus)&IQ(t1.SingleExemp,t2.SingleExemp)
+t1&t2&EQ(t1.State,t2.State)&GT(t1.Salary,t2.Salary)&LT(t1.Rate,t2.Rate)

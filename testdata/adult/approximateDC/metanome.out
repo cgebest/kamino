@@ -1,0 +1,150 @@
+t0.native-country!=t1.native-country and t0.capital-loss<t1.capital-loss
+t0.education-num<t1.education-num and t0.age=t1.age
+t0.age=t1.age and t0.hours-per-week=t1.hours-per-week
+t0.capital-loss!=t1.capital-loss and t0.capital-gain!=t1.capital-gain
+t0.age=t1.age and t0.capital-loss!=t1.capital-loss
+t0.relationship=t1.relationship and t0.age=t1.age
+t0.education-num=t1.education-num and t0.age=t1.age
+t0.hours-per-week<t1.hours-per-week and t0.age=t1.age
+t0.race!=t1.race and t0.age=t1.age
+t0.occupation=t1.occupation and t0.age=t1.age
+t0.education-num=t1.education-num and t0.capital-loss<t1.capital-loss
+t0.native-country!=t1.native-country and t0.age=t1.age
+t0.capital-loss<t1.capital-loss and t0.education=t1.education
+t0.education-num=t1.education-num and t0.education!=t1.education
+t0.education-num!=t1.education-num and t0.education=t1.education
+t0.sex!=t1.sex and t0.age=t1.age
+t0.income!=t1.income and t0.age=t1.age
+t0.age=t1.age and t0.capital-gain!=t1.capital-gain
+t0.age=t1.age and t0.workclass!=t1.workclass
+t0.education=t1.education and t0.age=t1.age
+t0.occupation=t1.occupation and t0.capital-loss!=t1.capital-loss
+t0.capital-gain<t1.capital-gain and t0.occupation=t1.occupation
+t0.capital-gain<t1.capital-gain and t0.native-country!=t1.native-country and t0.education-num>=t1.education-num
+t0.capital-gain<t1.capital-gain and t0.education-num>t1.education-num and t0.marital-status=t1.marital-status
+t0.capital-gain<t1.capital-gain and t0.native-country!=t1.native-country and t0.workclass!=t1.workclass
+t0.income!=t1.income and t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week
+t0.sex!=t1.sex and t0.marital-status=t1.marital-status and t0.capital-loss!=t1.capital-loss
+t0.capital-gain<t1.capital-gain and t0.marital-status=t1.marital-status and t0.hours-per-week=t1.hours-per-week
+t0.relationship=t1.relationship and t0.income!=t1.income and t0.sex!=t1.sex
+t0.native-country!=t1.native-country and t0.workclass=t1.workclass and t0.capital-loss!=t1.capital-loss
+t0.race!=t1.race and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.native-country!=t1.native-country and t0.education=t1.education and t0.occupation=t1.occupation
+t0.education-num=t1.education-num and t0.relationship=t1.relationship and t0.capital-gain!=t1.capital-gain
+t0.education-num=t1.education-num and t0.race!=t1.race and t0.capital-loss!=t1.capital-loss
+t0.relationship=t1.relationship and t0.education=t1.education and t0.capital-gain!=t1.capital-gain
+t0.hours-per-week<t1.hours-per-week and t0.race!=t1.race and t0.occupation=t1.occupation
+t0.capital-gain<t1.capital-gain and t0.age>=t1.age and t0.race!=t1.race
+t0.income=t1.income and t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain
+t0.education-num=t1.education-num and t0.age<=t1.age and t0.capital-loss!=t1.capital-loss
+t0.marital-status=t1.marital-status and t0.workclass=t1.workclass and t0.age=t1.age
+t0.education-num<t1.education-num and t0.capital-gain<t1.capital-gain and t0.hours-per-week=t1.hours-per-week
+t0.education-num=t1.education-num and t0.native-country!=t1.native-country and t0.occupation=t1.occupation
+t0.age<=t1.age and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain and t0.workclass!=t1.workclass
+t0.capital-gain<t1.capital-gain and t0.native-country!=t1.native-country and t0.hours-per-week>t1.hours-per-week
+t0.capital-gain<t1.capital-gain and t0.income=t1.income and t0.race!=t1.race
+t0.education-num=t1.education-num and t0.income=t1.income and t0.capital-loss!=t1.capital-loss
+t0.race!=t1.race and t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain
+t0.capital-gain<t1.capital-gain and t0.hours-per-week<t1.hours-per-week and t0.native-country!=t1.native-country
+t0.age<=t1.age and t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain
+t0.capital-gain<t1.capital-gain and t0.education-num>t1.education-num and t0.hours-per-week=t1.hours-per-week
+t0.age<t1.age and t0.hours-per-week=t1.hours-per-week and t0.capital-loss!=t1.capital-loss
+t0.sex!=t1.sex and t0.education=t1.education and t0.occupation=t1.occupation
+t0.income!=t1.income and t0.capital-loss<t1.capital-loss and t0.marital-status=t1.marital-status
+t0.income=t1.income and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.age>=t1.age and t0.capital-loss<t1.capital-loss and t0.workclass=t1.workclass
+t0.native-country!=t1.native-country and t0.hours-per-week=t1.hours-per-week and t0.capital-loss!=t1.capital-loss
+t0.hours-per-week<t1.hours-per-week and t0.capital-loss<t1.capital-loss and t0.education-num>=t1.education-num
+t0.capital-gain<t1.capital-gain and t0.race!=t1.race and t0.education-num>=t1.education-num
+t0.occupation=t1.occupation and t0.marital-status!=t1.marital-status and t0.capital-gain!=t1.capital-gain
+t0.hours-per-week<t1.hours-per-week and t0.income=t1.income and t0.capital-loss<t1.capital-loss
+t0.income=t1.income and t0.capital-loss<t1.capital-loss and t0.hours-per-week>t1.hours-per-week
+t0.relationship=t1.relationship and t0.sex!=t1.sex and t0.capital-loss!=t1.capital-loss
+t0.race!=t1.race and t0.education=t1.education and t0.occupation=t1.occupation
+t0.native-country!=t1.native-country and t0.capital-loss!=t1.capital-loss and t0.race=t1.race
+t0.age>=t1.age and t0.capital-loss<t1.capital-loss and t0.hours-per-week=t1.hours-per-week
+t0.capital-gain<t1.capital-gain and t0.relationship!=t1.relationship and t0.marital-status=t1.marital-status
+t0.age>=t1.age and t0.capital-loss<t1.capital-loss and t0.hours-per-week>t1.hours-per-week
+t0.age<=t1.age and t0.capital-loss<t1.capital-loss and t0.hours-per-week>t1.hours-per-week
+t0.race!=t1.race and t0.workclass=t1.workclass and t0.capital-loss!=t1.capital-loss
+t0.sex!=t1.sex and t0.marital-status=t1.marital-status and t0.occupation=t1.occupation
+t0.hours-per-week<t1.hours-per-week and t0.age>=t1.age and t0.capital-loss<t1.capital-loss
+t0.income!=t1.income and t0.native-country!=t1.native-country and t0.education=t1.education
+t0.education-num<t1.education-num and t0.race!=t1.race and t0.capital-loss!=t1.capital-loss
+t0.education-num<t1.education-num and t0.relationship=t1.relationship and t0.capital-loss<t1.capital-loss
+t0.sex=t1.sex and t0.capital-loss<t1.capital-loss and t0.race!=t1.race
+t0.sex!=t1.sex and t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week
+t0.relationship!=t1.relationship and t0.marital-status=t1.marital-status and t0.age=t1.age
+t0.native-country!=t1.native-country and t0.marital-status=t1.marital-status and t0.capital-loss!=t1.capital-loss
+t0.education-num=t1.education-num and t0.race!=t1.race and t0.occupation=t1.occupation
+t0.capital-loss<t1.capital-loss and t0.race!=t1.race and t0.education-num>=t1.education-num
+t0.capital-gain<t1.capital-gain and t0.sex!=t1.sex and t0.hours-per-week>t1.hours-per-week
+t0.sex!=t1.sex and t0.hours-per-week=t1.hours-per-week and t0.capital-loss!=t1.capital-loss
+t0.education-num=t1.education-num and t0.income!=t1.income and t0.capital-loss!=t1.capital-loss
+t0.education-num=t1.education-num and t0.capital-gain<t1.capital-gain and t0.workclass=t1.workclass
+t0.capital-gain<t1.capital-gain and t0.sex!=t1.sex and t0.hours-per-week=t1.hours-per-week
+t0.capital-loss<t1.capital-loss and t0.education-num>t1.education-num and t0.workclass!=t1.workclass
+t0.education=t1.education and t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain
+t0.education-num=t1.education-num and t0.native-country!=t1.native-country and t0.capital-gain!=t1.capital-gain
+t0.education-num<t1.education-num and t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week
+t0.relationship=t1.relationship and t0.native-country!=t1.native-country and t0.education=t1.education
+t0.capital-gain<t1.capital-gain and t0.sex!=t1.sex and t0.education-num>t1.education-num
+t0.capital-loss<t1.capital-loss and t0.education-num>=t1.education-num and t0.age>t1.age
+t0.marital-status=t1.marital-status and t0.age=t1.age and t0.education-num<=t1.education-num
+t0.relationship=t1.relationship and t0.sex!=t1.sex and t0.occupation=t1.occupation
+t0.capital-loss<t1.capital-loss and t0.marital-status=t1.marital-status and t0.workclass!=t1.workclass
+t0.native-country!=t1.native-country and t0.race!=t1.race and t0.occupation=t1.occupation
+t0.race!=t1.race and t0.marital-status=t1.marital-status and t0.capital-loss!=t1.capital-loss
+t0.education=t1.education and t0.hours-per-week=t1.hours-per-week and t0.capital-gain!=t1.capital-gain
+t0.education=t1.education and t0.occupation=t1.occupation and t0.workclass!=t1.workclass
+t0.relationship=t1.relationship and t0.hours-per-week=t1.hours-per-week and t0.capital-loss!=t1.capital-loss
+t0.capital-loss<t1.capital-loss and t0.hours-per-week=t1.hours-per-week and t0.workclass!=t1.workclass
+t0.income=t1.income and t0.capital-loss<t1.capital-loss and t0.marital-status=t1.marital-status
+t0.income=t1.income and t0.capital-loss<t1.capital-loss and t0.race!=t1.race
+t0.relationship=t1.relationship and t0.native-country!=t1.native-country and t0.sex!=t1.sex
+t0.income!=t1.income and t0.native-country!=t1.native-country and t0.capital-loss!=t1.capital-loss
+t0.education-num<t1.education-num and t0.age>=t1.age and t0.capital-loss<t1.capital-loss
+t0.age<=t1.age and t0.capital-loss<t1.capital-loss and t0.education-num>t1.education-num
+t0.sex!=t1.sex and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.age>=t1.age and t0.capital-loss<t1.capital-loss and t0.education-num>t1.education-num
+t0.education-num=t1.education-num and t0.hours-per-week<t1.hours-per-week and t0.occupation=t1.occupation
+t0.workclass=t1.workclass and t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain
+t0.education-num<t1.education-num and t0.capital-loss<t1.capital-loss and t0.marital-status=t1.marital-status
+t0.education-num=t1.education-num and t0.income!=t1.income and t0.native-country!=t1.native-country
+t0.marital-status=t1.marital-status and t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week
+t0.education-num=t1.education-num and t0.relationship=t1.relationship and t0.occupation=t1.occupation
+t0.income!=t1.income and t0.occupation=t1.occupation and t0.capital-gain!=t1.capital-gain
+t0.native-country!=t1.native-country and t0.capital-loss!=t1.capital-loss and t0.workclass!=t1.workclass
+t0.capital-gain<t1.capital-gain and t0.sex!=t1.sex and t0.education=t1.education
+t0.hours-per-week<t1.hours-per-week and t0.capital-loss<t1.capital-loss and t0.sex!=t1.sex
+t0.native-country!=t1.native-country and t0.income=t1.income and t0.capital-loss!=t1.capital-loss
+t0.capital-loss<t1.capital-loss and t0.sex!=t1.sex and t0.hours-per-week>t1.hours-per-week
+t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week and t0.capital-gain!=t1.capital-gain
+t0.sex=t1.sex and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.education-num=t1.education-num and t0.capital-gain<t1.capital-gain and t0.marital-status=t1.marital-status
+t0.relationship=t1.relationship and t0.capital-gain<t1.capital-gain and t0.education-num>t1.education-num
+t0.income!=t1.income and t0.education=t1.education and t0.occupation=t1.occupation
+t0.hours-per-week<t1.hours-per-week and t0.native-country!=t1.native-country and t0.occupation=t1.occupation
+t0.education=t1.education and t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week
+t0.relationship=t1.relationship and t0.capital-gain<t1.capital-gain and t0.hours-per-week=t1.hours-per-week
+t0.education-num=t1.education-num and t0.race!=t1.race and t0.capital-gain!=t1.capital-gain
+t0.relationship=t1.relationship and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.occupation=t1.occupation and t0.hours-per-week=t1.hours-per-week and t0.workclass!=t1.workclass
+t0.education-num=t1.education-num and t0.capital-loss!=t1.capital-loss and t0.workclass!=t1.workclass
+t0.capital-gain<t1.capital-gain and t0.hours-per-week<t1.hours-per-week and t0.education-num>t1.education-num
+t0.relationship=t1.relationship and t0.race!=t1.race and t0.capital-gain!=t1.capital-gain
+t0.hours-per-week<t1.hours-per-week and t0.education=t1.education and t0.capital-loss!=t1.capital-loss
+t0.relationship=t1.relationship and t0.native-country!=t1.native-country and t0.occupation=t1.occupation
+t0.race!=t1.race and t0.hours-per-week=t1.hours-per-week and t0.capital-loss!=t1.capital-loss
+t0.education-num=t1.education-num and t0.sex!=t1.sex and t0.occupation=t1.occupation
+t0.capital-gain<t1.capital-gain and t0.education-num>t1.education-num and t0.hours-per-week>t1.hours-per-week
+t0.relationship=t1.relationship and t0.income!=t1.income and t0.marital-status!=t1.marital-status
+t0.capital-loss<t1.capital-loss and t0.sex!=t1.sex and t0.education-num>=t1.education-num
+t0.capital-gain<t1.capital-gain and t0.native-country!=t1.native-country and t0.workclass=t1.workclass
+t0.age<=t1.age and t0.native-country!=t1.native-country and t0.occupation=t1.occupation
+t0.relationship=t1.relationship and t0.marital-status!=t1.marital-status and t0.capital-gain!=t1.capital-gain
+t0.education-num=t1.education-num and t0.income!=t1.income and t0.capital-gain<t1.capital-gain
+t0.education-num=t1.education-num and t0.marital-status=t1.marital-status and t0.capital-loss!=t1.capital-loss
+t0.education=t1.education and t0.marital-status=t1.marital-status and t0.occupation=t1.occupation
+t0.native-country!=t1.native-country and t0.education=t1.education and t0.capital-loss!=t1.capital-loss

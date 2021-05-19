@@ -1,0 +1,4 @@
+t1&t2&EQ(t1.c_custkey,t2.c_custkey)&IQ(t1.c_nationkey,t2.c_nationkey)
+t1&t2&EQ(t1.c_custkey,t2.c_custkey)&IQ(t1.c_mktsegment,t2.c_mktsegment)
+t1&t2&EQ(t1.c_custkey,t2.c_custkey)&IQ(t1.n_name,t2.n_name)
+t1&t2&EQ(t1.n_name,t2.n_name)&IQ(t1.n_regionkey,t2.n_regionkey)

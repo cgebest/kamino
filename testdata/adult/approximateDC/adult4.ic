@@ -1,0 +1,4 @@
+t1&t2&IQ(t1.native-country,t2.native-country)&LT(t1.capital-loss,t2.capital-loss)
+t1&t2&LT(t1.education-num,t2.education-num)&EQ(t1.age,t2.age)
+t1&t2&EQ(t1.age,t2.age)&EQ(t1.hours-per-week,t2.hours-per-week)
+t1&t2&IQ(t1.capital-loss,t2.capital-loss)&IQ(t1.capital-gain,t2.capital-gain)

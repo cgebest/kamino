@@ -1,0 +1,2 @@
+t1&t2&EQ(t1.education,t2.education)&IQ(t1.education-num,t2.education-num)
+t1&t2&LT(t1.capital-gain,t2.capital-gain)&LT(t1.capital-loss,t2.capital-loss)

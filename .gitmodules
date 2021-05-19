@@ -1,0 +1,8 @@
+[submodule "holoclean"]
+	path = holoclean
+	url = https://github.com/cgebest/holoclean.git
+	branch = privacy
+[submodule "pyvacy"]
+	path = pyvacy
+	url = https://github.com/cgebest/pyvacy.git
+	branch = kamino
